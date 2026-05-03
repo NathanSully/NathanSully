@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=NathanSully&color=blue&style=flat-square&label=Profile+views" alt="Profile Views" />
-</p>
-
 # Hey, I'm Nathan Sullivan! 👨‍💻
 
 I'm an **Applied Computer Science** student at **Dalhousie University** focused on building practical, user-focused software.
@@ -45,3 +41,5 @@ I like working on full-stack applications, automation tools, and data-driven pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-sullivan/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NathanSully)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=icloud&logoColor=white)](mailto:nathan_sullivan@icloud.com)
+
+<img src="https://komarev.com/ghpvc/?username=NathanSully&color=blue&style=flat-square&label=Profile+views" alt="Profile Views" />
